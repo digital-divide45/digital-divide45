@@ -1,0 +1,5 @@
+C:\Users\n1210453.STCN2\source\repos\todo\todo\obj\Debug\todo.csproj.AssemblyReference.cache
+C:\Users\n1210453.STCN2\source\repos\todo\todo\obj\Debug\TodoApp1.dueDateTimePicker.resources
+C:\Users\n1210453.STCN2\source\repos\todo\todo\obj\Debug\todo.Properties.Resources.resources
+C:\Users\n1210453.STCN2\source\repos\todo\todo\obj\Debug\todo.csproj.GenerateResource.cache
+C:\Users\n1210453.STCN2\source\repos\todo\todo\obj\Debug\todo.csproj.CoreCompileInputs.cache
